@@ -1,0 +1,62 @@
+/* Styling for div1 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+#div1 {
+    width: 300px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid blue;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 15px;
+    text-align: center;
+    align-items: center;
+}
+
+/* Styling for div2 */
+#div2 {
+    width: 300px;
+    hight: 60px;
+    background-color: lightgreen;
+    border: 2px solid green;
+    margin: 0 auto;
+    max-width: 1200px;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+}
+/* Styling for button */
+button {
+    width: 150px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: darkorange;
+}
+
+/* Styling for #samation */
+#samation {
+    width: 100px;
+    background-color: lightcoral;
+    border: 2px solid red;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
